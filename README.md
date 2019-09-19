@@ -1,2 +1,2 @@
 # hello-world
-Learn to know git
+How to use GitHub
